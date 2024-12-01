@@ -1,0 +1,12 @@
+
+url shortener
+
+
+app overview
+
+
+
+takes the real url from user       ---client side
+makes the short url of the given url ---server side
+stores both the short url given url    ---database side
+gives the short url to the user        ---client side 
